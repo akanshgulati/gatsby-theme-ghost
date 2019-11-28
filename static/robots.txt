@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://blog.akansh.com/sitemap.xml
