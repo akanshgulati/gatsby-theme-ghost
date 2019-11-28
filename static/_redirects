@@ -1,0 +1,5 @@
+# Netlify redirects file, edit with your domain
+# https://www.netlify.com/docs/redirects/
+
+https://how-to-blog.netlify.com/*      https://blog.akansh.com:splat    301!
+http://how-to-blog.netlify.com/*       https://blog.akansh.com:splat    301!
