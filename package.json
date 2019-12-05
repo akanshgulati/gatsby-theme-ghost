@@ -6,7 +6,7 @@
   "author": "Akansh <me@akansh.com>",
   "repository": {
     "type": "git",
-    "url": "git+github.com:akanshgulati/gatsby-theme-ghost.git"
+    "url": "https://github.com/akanshgulati/gatsby-theme-ghost.git"
   },
   "engines": {
     "node": ">= 10.0.0"
