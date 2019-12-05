@@ -16,7 +16,7 @@ Gatbsy Theme Ghost
     <img src="https://img.shields.io/twitter/follow/akanshgulati.svg?label=Follow%20@akanshgulati" alt="Follow @akanshgulati" />
   </a>
   <a href="https://app.netlify.com/sites/gatsby-theme-ghost/deploys">
-      <img src="https://api.netlify.com/api/v1/badges/5a4f3e8c-82cb-411d-89f1-fcfde2d3cf80/deploy-status" alt="Netlify Status" />
+      <img src="https://api.netlify.com/api/v1/badges/ae8e28d2-398b-4fcd-87c5-20ff1c74d077/deploy-status" alt="Netlify Status" />
     </a>
 </p>
 <hr/>
