@@ -1,7 +1,7 @@
 {
   "name": "gatsby-theme-ghost",
   "description": "Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and static pages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "Akansh <me@akansh.com>",
   "repository": {
