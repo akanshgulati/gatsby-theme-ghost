@@ -27,14 +27,26 @@ Gatbsy Theme Ghost
 
 
 ## 📦 Installation 
+#### NPM
+```shell script
+npm install gatbsy-theme-ghost
+```
+#### YARN
+```shell script
+yarn add gatbsy-theme-ghost
+```
 
-`npm install gatbsy-theme-ghost`
+#### Gatsby
 
-#### Install as Gatsby template
+```shell script
+gatbsy new gatsby-blog akanshgulati/gatsby-theme-ghost
+```
 
+<small>
 This will generate a new site (with the folder name "gatsby-blog") that pre-configures use of the theme including example content.
+</small>
 
-`gatbsy new gatsby-blog git@github.com:akanshgulati/gatsby-theme-ghost`
+<br>
 
  ## 💥 Features  
 - **Code Snippet Support** - Integration with [remark-prismjs](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/) for beautifying code snippets on posts  
@@ -57,6 +69,8 @@ This will generate a new site (with the folder name "gatsby-blog") that pre-conf
 - **Customisations** - Easy to customise home page, posts and other elements of website.  
 - **Comment System** - Integration of the [Disqus](https://github.com/disqus/disqus-react) commenting system  
      
+<br/>
+
 ## ⚙️ Configuration 
 
 Change the website configuration at `utils/siteConfig.js` file.  
@@ -79,8 +93,9 @@ module.exports = {
   // ...
 ```
 
+<br/>
 
-## 📝 Adding Content  
+## 📝 Adding Content
 
 ### New Post  
 1. Create a directory for every post under `src/posts` directory, having a markdown file (.md extension)   
@@ -137,7 +152,7 @@ module.exports = {
 **<sup>*</sup>Required**  
   
   
-
+<br/>
 
   
 ## 🔭 Directory Structure 
