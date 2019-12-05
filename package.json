@@ -3,10 +3,10 @@
   "description": "Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and static pages",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Akansh",
+  "author": "Akansh <me@akansh.com>",
   "repository": {
     "type": "git",
-    "url": "git+github.com:akanshgulati/ghost-blog-template-clone-gatbsy.git"
+    "url": "git+github.com:akanshgulati/gatsby-theme-ghost.git"
   },
   "engines": {
     "node": ">= 10.0.0"
