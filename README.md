@@ -48,7 +48,9 @@ This will generate a new site (with the folder name "gatsby-blog") that pre-conf
 
 <br>
 
- ## 💥 Features  
+
+## 💥 Features  
+ 
 - **Code Snippet Support** - Integration with [remark-prismjs](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/) for beautifying code snippets on posts  
 - **100% performance optimisation** -  It has **98+** for both mobile and desktop as per Google lighthouse benchmarks  
    - **Responsive** lazy loading of images for desktop and mobile  
