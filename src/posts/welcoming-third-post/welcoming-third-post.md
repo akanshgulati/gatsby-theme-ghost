@@ -1,12 +1,12 @@
 ---
 title: 'Welcoming to write third post'
-date: 2019-11-14T00:00:00+05:30
+date: 2019-11-30T00:00:00+05:30
 draft: false
 feature_image: welcoming-third-post-feature-image.png
 featured: false
-published_at: 2019-11-14T00:00:00+05:30
-updated_at: 2019-11-14T00:00:00+05:30
-created_at: 2019-11-14T00:00:00+05:30
+published_at: 2019-11-30T00:00:00+05:30
+updated_at: 2019-11-30T00:00:00+05:30
+created_at: 2019-11-30T00:00:00+05:30
 weight: 2
 page: false
 tags: 
@@ -17,6 +17,8 @@ comment: true
 meta_description: 'A description for the welcoming post'
 id: 'welcoming-post-third'
 ---
+This article is about different typography which are supported in the post section of the blog. 
+Below you can see the various headings, paragraphs, code snippet examples, etc.
 
 An h1 header
 ============
