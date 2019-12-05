@@ -1,6 +1,6 @@
 {
-  "name": "ghost-clone-template-for-gatsby",
-  "description": "A Ghost blog clone template for Gatsby",
+  "name": "gatsby-theme-ghost",
+  "description": "Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and static pages",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Akansh",
@@ -12,13 +12,17 @@
     "node": ">= 10.0.0"
   },
   "bugs": {
-    "url": "https://github.com/akanshgulati/ghost-blog-template-clone-gatbsy/issues"
+    "url": "https://github.com/akanshgulati/gatbsy-theme-ghost/issues"
   },
   "keywords": [
     "gatsby",
     "ghost",
-    "clone",
-    "template"
+    "theme",
+    "blog",
+    "minimalistic",
+    "template",
+    "gatsby-theme",
+    "gatsby-plugin"
   ],
   "main": "n/a",
   "scripts": {
@@ -31,8 +35,7 @@
   "devDependencies": {
     "eslint": "5.16.0",
     "eslint-plugin-ghost": "0.2.0",
-    "eslint-plugin-react": "7.13.0",
-    "gh-pages": "^2.0.1"
+    "eslint-plugin-react": "7.13.0"
   },
   "dependencies": {
     "@tryghost/helpers": "1.1.5",
