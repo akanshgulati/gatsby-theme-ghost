@@ -205,3 +205,14 @@ module.exports = {
    - **templates**: Has template in React for post, static page, author page and tag page.  
    - **utils**: Has RSS generator script and **site configuration**.  
 - **static**: All the content is copied directly in the public folder on build, stores website favicon, robots.txt file and other files required at root of publicly accessible directory.
+
+<br>
+
+## ☑️ Todo
+
+ - [ ] Previous and Next post widget
+ - [ ] Add subscription widget
+ - [ ] Netlify CMS integration
+
+## 💪 Maintainer
+[Akansh Gulati](https://akansh.com)
