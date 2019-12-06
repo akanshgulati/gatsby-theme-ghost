@@ -1,9 +1,6 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667" width="64px;" alt="Gatsby Logo">
+    <img src="./docs/ghost-readme-banner.jpg" alt="Ghost Gatsby Theme" width="800"/>
 </p>
-<h1 align="center">
-Gatbsy Theme Ghost
-</h1>
 <p align="center">
   <a href="https://github.com/akanshgulati/gatsby-theme-ghost/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="gatsby-theme-ghost is released under the MIT license." />
@@ -20,7 +17,12 @@ Gatbsy Theme Ghost
     </a>
 </p>
 <hr/>
-
+<p align="center">
+Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and static pages
+</p>
+<p align="center">
+    <img src="./docs/chrome-mockup.jpg" alt="Ghost Chrome mockup" width="800"/>
+</p>
 <a href="https://gatsby-theme-ghost.netlify.com/" target="_blank">
 <img src="https://svgshare.com/i/Gbj.svg" alt="Live Preview" width="160px" height="40px">
 </a>
