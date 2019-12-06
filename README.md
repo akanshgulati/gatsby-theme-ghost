@@ -76,7 +76,7 @@ This will generate a new site (with the folder name "gatsby-blog") that pre-conf
 ## 👨‍💻 Development
 
 ```shell script
-yarn develop
+yarn dev
 ```
 - Runs local website with hot reloading by default at `8000` port
 - Runs GraphQL for debugging at `localhost:8000/__graphql` path
