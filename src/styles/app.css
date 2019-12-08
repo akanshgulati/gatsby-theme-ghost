@@ -627,6 +627,7 @@ h6 {
 }
 .site-mast-left-flex {
     display: flex;
+    align-items: center;
 }
 .date-divider {
     display: inline-block;
