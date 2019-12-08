@@ -31,17 +31,17 @@ Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and 
 ## 📦 Installation 
 #### NPM
 ```shell script
-npm install gatbsy-theme-ghost
+npm install gatsby-theme-ghost
 ```
 #### YARN
 ```shell script
-yarn add gatbsy-theme-ghost
+yarn add gatsby-theme-ghost
 ```
 
 #### Gatsby
 
 ```shell script
-gatbsy new gatsby-blog akanshgulati/gatsby-theme-ghost
+gatsby new gatsby-blog akanshgulati/gatsby-theme-ghost
 ```
 
 <small>
