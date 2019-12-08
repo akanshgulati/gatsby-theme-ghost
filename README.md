@@ -29,14 +29,6 @@ Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and 
 
 
 ## 📦 Installation 
-#### NPM
-```shell script
-npm install gatsby-theme-ghost
-```
-#### YARN
-```shell script
-yarn add gatsby-theme-ghost
-```
 
 #### Gatsby
 
