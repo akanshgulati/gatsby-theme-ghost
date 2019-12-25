@@ -26,3 +26,4 @@ Any other info e.g. Why do you consider this to be a bug? What did you expect to
 
 * Node Version:
 * OS:
+* Gatsby CLI version: 
