@@ -215,9 +215,9 @@ exports.createPages = ({ graphql, actions }) => {
                         description
                       }
                     }
-                  } 
+                  }
                 }
-              }              
+              }
             `).then((result) => {
                 if (result.errors) {
                     return reject(result.errors)
@@ -363,55 +363,5 @@ exports.createPages = ({ graphql, actions }) => {
         )
     })
 
-    // /**
-    // * Pages
-    // */
-    // const createPages = new Promise((resolve, reject) => {
-    //     const pageTemplate = path.resolve(`./src/templates/page.js`)
-    //     resolve(
-    //         graphql(`
-    //             {
-    //                 allGhostPage(
-    //                     sort: {order: ASC, fields: published_at}
-    //                 ) {
-    //                     edges {
-    //                         node {
-    //                             slug
-    //                             url
-    //                         }
-    //                     }
-    //                 }
-    //             }`
-    //         ).then((result) => {
-    //             if (result.errors) {
-    //                 return reject(result.errors)
-    //             }
-
-    //             if (!result.data.allGhostPage) {
-    //                 return resolve()
-    //             }
-
-    //             const items = result.data.allGhostPage.edges
-
-    //             items.forEach(({ node }) => {
-    //                 // This part here defines, that our pages will use
-    //                 // a `/:slug/` permalink.
-    //                 node.url = `/${node.slug}/`
-
-    //                 createPage({
-    //                     path: node.url,
-    //                     component: path.resolve(pageTemplate),
-    //                     context: {
-    //                         // Data passed to context is available
-    //                         // in page queries as GraphQL variables.
-    //                         slug: node.slug,
-    //                     },
-    //                 })
-    //             })
-    //             return resolve()
-    //         })
-    //     )
-    // })
-
-    return Promise.all([createStaticPages])
+    return Promise.all([createPosts, createTags, createAuthors, createStaticPages])
 }
