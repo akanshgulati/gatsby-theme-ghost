@@ -24,7 +24,7 @@ Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and 
     <img src="./docs/chrome-mockup.jpg" alt="Ghost Chrome mockup" width="800"/>
 </p>
 <a href="https://gatsby-theme-ghost.netlify.com/" target="_blank">
-<img src="https://svgshare.com/i/Gbj.svg" alt="Live Preview" width="160px" height="40px">
+<img src="./docs/live-preview.svg" alt="Live Preview" width="160px" height="40px">
 </a>
 
 
